@@ -16,7 +16,7 @@ A modern fashion product landing page inspired by a premium e-commerce design.
 - Remix Icons
 
 ## Live Demo
-[Add your GitHub Pages link here]
+https://jatinpathak072.github.io/Astro-clone/
 
 ## Author
 Jatin Pathak
